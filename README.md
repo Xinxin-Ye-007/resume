@@ -17,3 +17,8 @@
 * B.S. in Human Geography and Urban Planning, [East China Normal University](http://www.ecnu.edu.cn/), China, 2017
 * M.Sc. in Economic Geography, [Heidelberg University](https://www.uni-heidelberg.de/), Germany, 2020
 * Ph.D. in Economics, [Clark University](https://www.clarku.edu/), USA, 2021-
+
+## Research interests
+
+* Urban and environmental economics
+* Innovation economics
